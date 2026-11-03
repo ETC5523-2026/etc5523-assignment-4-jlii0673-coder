@@ -120,3 +120,7 @@ Source data: CC0.
 I used ChatGPT to help plan the app’s intended user and question, draft
 R code for data preparation, summary functions and the Shiny app,
 suggest styling, draft documentation, and troubleshoot errors.
+
+## Documentation website
+
+<https://etc5523-2026.github.io/etc5523-assignment-4-jlii0673-coder/>
