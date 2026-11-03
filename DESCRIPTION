@@ -1,0 +1,28 @@
+Package: exploredata
+Title: Explore Penguin Body Size with an Interactive Shiny App
+Version: 0.0.0.9000
+Authors@R: person(
+    "Jingye", "Li",
+    email = "jlii0673@student.monash.edu",
+    role = c("aut", "cre"))
+Description: Provides prepared Palmer penguin measurements, a function
+    for summarising body measurements by species, and an interactive
+    Shiny application. Helps undergraduate biology students compare
+    body mass and flipper length among species and explore how these
+    comparisons change when filtering by sex.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends:
+    R (>= 4.1.0)
+Imports:
+    ggplot2,
+    shiny
+Suggests:
+    dplyr,
+    knitr,
+    palmerpenguins,
+    rmarkdown
+VignetteBuilder: knitr
+LazyData: true
+Config/roxygen2/version: 8.1.1
+

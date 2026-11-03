@@ -1,0 +1,27 @@
+url: https://etc5523-2026.github.io/etc5523-assignment-4-jlii0673-coder/
+
+template:
+  bootstrap: 5
+
+navbar:
+  structure:
+    left: [intro, reference, articles]
+    right: [search, github]
+
+reference:
+  - title: "Launch the app"
+    contents:
+      - launch_app
+
+  - title: "Summarise measurements"
+    contents:
+      - summarise_penguins
+
+  - title: "Included data"
+    contents:
+      - penguin_data
+
+articles:
+  - title: "Get started"
+    contents:
+      - penguin-explorer
